@@ -1,2 +1,2 @@
-# proyecto-24
-experiencia de minar 
+# Geologist
+Geologist Project
